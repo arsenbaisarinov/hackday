@@ -1,0 +1,76 @@
+body{
+	background: url(images/mit3.jpg); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}		
+header{
+	width: 100%;
+}
+.logo{
+	padding: 20px 20px;
+	text-align: center;
+}
+.logo img{
+	height: 60px;
+}
+.ref-left{
+	float: left;
+	padding: 20px 20px;
+}
+.ref-left a{
+	padding: 0 16px;
+	font-size: 20px;
+	color: white;
+
+}
+.ref-left a:hover{
+	text-decoration: none;
+	color: gold;
+	
+}
+.pdd-ref{
+	padding:5px 0;
+}
+.ref-lng{
+	padding: 20px 20px;
+	float: right;
+}
+.ref-lng a{
+	color: white;
+	font-size: 18px;
+	padding: 0px 16px;
+}
+a{
+	text-decoration: none;
+}
+.ref-lng a:hover {
+	color: gold;
+	text-decoration: none;
+}
+.d-flex{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.f-s{
+	background: -webkit-linear-gradient(top, rgba(0,73,130,0) 0%,rgba(68,237,252,0.8) 100%); 
+
+}
+
+.s-d{
+	background-color: rgba(255,255,255,0);
+	height: 732px;
+}
+.text-center{
+	padding: 200px 0px;
+
+}
+#t-w{
+	font-family: 'Hind';
+	font-size: 45px;
+	color: white;
+	font-weight: 700;
+}
+
